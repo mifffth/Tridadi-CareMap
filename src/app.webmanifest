@@ -1,0 +1,17 @@
+{
+    "name": "WebGIS Faskes",
+    "short_name": "WebGISFaskes",
+    "description": "WebGIS Persebaran Titik Fasilitas Kesehatan di Tridadi.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }

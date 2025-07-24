@@ -1,0 +1,104 @@
+[
+    {
+        "nama": "Apotek S3W Farma",
+        "tipe": "Apotek",
+        "lat": -7.724999504048626,
+        "lon": 110.35742831079031
+    },
+    {
+        "nama": "Klinik Pratama Adera",
+        "tipe": "Klinik",
+        "lat": -7.722794283039989,
+        "lon": 110.36085723820337
+    },
+    {
+        "nama": "Denticia Dental Implant",
+        "tipe": "Praktek Mandiri",
+        "lat": -7.723474790153414,
+        "lon": 110.36002313622022
+    },
+    {
+        "nama": "Apotek Pratama Tridadi",
+        "tipe": "Apotek",
+        "lat": -7.719279370082687,
+        "lon": 110.35429126817726
+    },
+    {
+        "nama": "Apotek K-24 Denggung Sleman",
+        "tipe": "Apotek",
+        "lat": -7.719618152270161,
+        "lon": 110.35494559807812
+    },
+    {
+        "nama": "Apotek Gran Medika",
+        "tipe": "Apotek",
+        "lat": -7.719214952836902,
+        "lon": 110.35429307483174
+    },
+    {
+        "nama": "Apotek Indika",
+        "tipe": "Apotek",
+        "lat": -7.712806019329923,
+        "lon": 110.34364389212794
+    },
+    {
+        "nama": "Apotek S3W Farma",
+        "tipe": "Apotek",
+        "lat": -7.724999504048626,
+        "lon": 110.35742831079031
+    },
+    {
+        "nama": "Apotek S3W Farma",
+        "tipe": "Apotek",
+        "lat": -7.724999504048626,
+        "lon": 110.35742831079031
+    },
+    {
+        "nama": "Puskesmas Pembantu Tridadi Sleman",
+        "tipe": "Puskesmas",
+        "lat": -7.717895098093984,
+        "lon": 110.35876884532051
+    },
+    {
+        "nama": "Klinik Tridadi Peduli Sehat (FKTP Dr. Trisnina)",
+        "tipe": "Klinik",
+        "lat": -7.716955715479557,
+        "lon": 110.34536338117213
+    },
+    {
+        "nama": "Klinik Gigi Dentes Tridadi",
+        "tipe": "Klinik",
+        "lat": -7.71272471086813,
+        "lon": 110.343759628869
+    },
+    {
+        "nama": "Puskeswan Sleman dan Melati",
+        "tipe": "Puskesmas",
+        "lat": -7.698996288969164,
+        "lon": 110.34800494188617
+    },
+    {
+        "nama": "UPT Pengelolaan Obat dan Alat Kesehatan Dinkes Sleman",
+        "tipe": "Lainnya",
+        "lat": -7.717912001195591,
+        "lon": 110.35919431793398
+    },
+    {
+        "nama": "Dinas Kesehatan Kabupaten Sleman",
+        "tipe": "Lainnya",
+        "lat": -7.718342616063123,
+        "lon": 110.35653035352394
+    },
+    {
+        "nama": "Posyandu Melati Putih Desa Jaban",
+        "tipe": "Posyandu",
+        "lat": -7.7227137131730705, 
+        "lon": 110.35899028054988
+    },
+    {
+        "nama": "UPTD PSC SLEMAN EMERGENCY SERVICES",
+        "tipe": "Lainnya",
+        "lat": -7.718408205424657,
+        "lon": 110.35654876282996
+    }
+]
